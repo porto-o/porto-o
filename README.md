@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismaelporto_" target="blank"><img src="https://img.shields.io/twitter/follow/ismaelporto_?logo=twitter&style=for-the-badge" alt="ismaelporto_" /></a> </p>
 
-- 🔭 I’m currently working on [prediction the number of crimes based on an analysis of complaints to the Attorney General's Office of Mexico](https://github.com/porto-o/analisis_carpetas_investigacion)
+- 🔭 I’m currently working on [Prediction of the number of complaints according to the General Prosecutor's Office of Justice in Mexico City](https://github.com/porto-o/analisis_carpetas_investigacion)
 
 - 🌱 I’m currently learning **Data analysis and MERN technologies with MITxPro**
 
