@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porto-o&label=Profile%20views&color=0e75b6&style=flat" alt="porto-o" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ismaelporto_" target="blank"><img src="https://img.shields.io/twitter/follow/iporto_g?logo=twitter&style=for-the-badge" alt="iporto_g" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iporto_g" target="blank"><img src="https://img.shields.io/twitter/follow/iporto_g?logo=twitter&style=for-the-badge" alt="iporto_g" /></a> </p>
 
 - 🔭 I’m currently working on [Prediction of the number of complaints according to the General Prosecutor's Office of Justice in Mexico City](https://github.com/porto-o/analisis_carpetas_investigacion)
 
